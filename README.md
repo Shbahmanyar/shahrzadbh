@@ -6,6 +6,6 @@
 
 ### Skills
 
-Machine Learning
-Deep Learning
-Natural Language Processing
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
